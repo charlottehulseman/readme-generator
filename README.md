@@ -1,5 +1,9 @@
 # **README Generator**
 
+![alt text](https://github.com/charlottehulseman/readme-generator/blob/main/readme-gen-demo-ss.png?raw=true)
+
+[Link to Demo](https://www.youtube.com/watch?v=xk7PwszuOVg)
+
 ## **Contributors:**
 Charlotte Hulseman
 
